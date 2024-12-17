@@ -1,0 +1,21 @@
+D:\hw 17.12\hw 17.12\bin\Debug\net8.0-windows\hw 17.12.exe
+D:\hw 17.12\hw 17.12\bin\Debug\net8.0-windows\hw 17.12.deps.json
+D:\hw 17.12\hw 17.12\bin\Debug\net8.0-windows\hw 17.12.runtimeconfig.json
+D:\hw 17.12\hw 17.12\bin\Debug\net8.0-windows\hw 17.12.dll
+D:\hw 17.12\hw 17.12\bin\Debug\net8.0-windows\hw 17.12.pdb
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\App.g.cs
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12_MarkupCompile.cache
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12_MarkupCompile.lref
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12.g.resources
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12.AssemblyInfoInputs.cache
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12.AssemblyInfo.cs
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12.csproj.CoreCompileInputs.cache
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12.dll
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\refint\hw 17.12.dll
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12.pdb
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\hw 17.12.genruntimeconfig.cache
+D:\hw 17.12\hw 17.12\obj\Debug\net8.0-windows\ref\hw 17.12.dll
